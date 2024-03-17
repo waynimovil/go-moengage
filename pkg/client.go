@@ -1,11 +1,11 @@
-package moengage
+package pkg
 
 import (
 	"errors"
 	"fmt"
-	"moengage/helpers"
-	"moengage/internal"
-	"moengage/pkg/moengage/inform"
+	"github.com/waynimovil/go-moengage/helpers"
+	"github.com/waynimovil/go-moengage/internal"
+	"github.com/waynimovil/go-moengage/pkg/inform"
 	"net/http"
 	"net/url"
 	"os"

@@ -2,8 +2,8 @@ package inform
 
 import (
 	"context"
-	"moengage/internal"
-	"moengage/pkg/moengage/models"
+	"github.com/waynimovil/go-moengage/internal"
+	"github.com/waynimovil/go-moengage/pkg/models"
 )
 
 type Inform interface {
